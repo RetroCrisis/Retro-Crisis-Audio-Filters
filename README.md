@@ -6,5 +6,7 @@ They're in no way 100% accurate, but are more designed to envoke the feeling and
 
 Those that lived it, will know what I'm talking about.
 ___
+Special thanks to the RetroArch Team and the authors of IIR, Vibrato & Panning.
+___
 Install Guide & RF Mono Showcase:
 [https://youtu.be/zZuUoRsKu2I](https://youtu.be/zZuUoRsKu2I)
