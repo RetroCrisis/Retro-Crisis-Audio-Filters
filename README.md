@@ -8,5 +8,6 @@ Those that lived it, will know what I'm talking about.
 ___
 Special thanks to the RetroArch Team and the authors of IIR, Vibrato & Panning.
 ___
-Install Guide & RF Mono Showcase:
-[https://youtu.be/zZuUoRsKu2I](https://youtu.be/zZuUoRsKu2I)
+Install Guide - https://youtu.be/zZuUoRsKu2I
+
+2024-07-31 Update 1 - https://youtu.be/2rh_cpG86ts
